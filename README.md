@@ -40,7 +40,7 @@ If the section that follows was a Buzzfeed blog post, it's title would be "Top T
 - [Asymmetric Matchers](content/Asymmetric%20Matchers.md) and a [Real World Use Case for Asymmetric Matching](content/Real%20World%20Use%20Case%20for%20Asymmetric%20Matching.md)
 - **Exercise**: [Testing a Reducer Exercise](content/Testing%20a%20Reducer%20Exercise.md) and a [Solution](content/Testing%20a%20Reducer%20Solution.md)
 
-## Parallelizing, Parameterizing and Reporting
+## Parallelizing, Parameterizing, and Reporting
 
 - [Test Context](content/Test%20Context.md)
 - [Parameterizing Tests](content/Parameterizing%20Tests.md)
