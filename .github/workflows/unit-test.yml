@@ -17,4 +17,4 @@ jobs:
       - run: npm ci
       - run: npm test
       - name: build
-        uses: npm build
+        run: npm build
